@@ -25,10 +25,13 @@
 
 ### 方案一：一键唤醒（最推荐 ⚡️）
 无需复杂配置，只需将下面这段文字复制并发送给您的 **Openclaw**：
-> `安装这个skills，链接：https://github.com/gizzap-yao/yao`
+
+```text
+安装这个skills，链接：https://github.com/gizzap-yao/yao/releases/download/v1/yao_v1.zip
+```
 
 ### 方案二：手动载入（传统派 📦）
-1. 下载本项目中的 `yao_v1.zip` 压缩包。
+1. 下载本项目中的 [yao_v1.zip](https://github.com/gizzap-yao/yao/releases/download/v1/yao_v1.zip) 压缩包。
 2. 在 **Openclaw** 对话框中，像传递一份珍贵的卷轴一样发送该文件，即可完成安装。
 
 ---
