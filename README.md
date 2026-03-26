@@ -27,7 +27,7 @@
 无需复杂配置，只需将下面这段文字复制并发送给您的 **Openclaw**：
 
 ```text
-安装这个skills，链接：https://github.com/gizzap-yao/yao/releases/download/v1/yao_v1.zip
+帮我安装技能：yuenkong-liuyao
 ```
 
 ### 方案二：手动载入（传统派 📦）
