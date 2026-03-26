@@ -9,7 +9,7 @@ from typing import List, Dict, Any
 
 import httpx
 
-BASE_URL = "http://yao.gizzap.com"
+BASE_URL = "https://yao.gizzap.com"
 API_KEY_FILE = os.path.expanduser("~/.liuyao_key")
 
 
